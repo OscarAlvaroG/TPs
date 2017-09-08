@@ -41,6 +41,7 @@ float multiplicar(float numero1,float numero2){
 }
 /** \brief Calcula el factorial de un numero que se recibe como parametro
  *  \param numero tipo float
+ *  \param i contador para el bucle
  *  \return resultado del factorial
  */
 float factorial(float numero){
